@@ -332,4 +332,4 @@ highest_rated[:drivers].each do |driver|
 end
 puts "*" * 65
 exit
-########################################################
+
